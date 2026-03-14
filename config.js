@@ -7,7 +7,7 @@ window.DVP_CONFIG = {
   // n8n Webhook URL — replace with your WF-1 webhook trigger URL
   // In n8n: open WF-1 → change trigger from Manual to Webhook
   // Copy the "Production URL" shown in the Webhook node
-  n8nWebhookUrl: 'https://YOUR-N8N-INSTANCE.app.n8n.cloud/webhook/dvp-intake',
+  n8nWebhookUrl: 'https://n8n.srv1454732.hstgr.cloud/webhook/dvp-intake',
 
   // Google Sheets ID for dashboard data
   // Create a Google Sheet, share it publicly (read-only)
